@@ -43,6 +43,10 @@ body {
   width: 85%;
 }
 
+.qr-text h1 {
+  font-size: 25px;
+}
+
 .qr-text p {
   margin-top: 5%;
   color: gray;
